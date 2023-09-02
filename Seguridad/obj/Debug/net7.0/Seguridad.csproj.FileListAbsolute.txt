@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\bin\Debug\net7.0\Seguridad.deps.json
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\bin\Debug\net7.0\Seguridad.dll
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\bin\Debug\net7.0\Seguridad.pdb
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.dll
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\refint\Seguridad.dll
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\Seguridad.pdb
+C:\Users\Usuario\Desktop\Juan David\programacion\lenguajes\C#\proyectos\IncidenciasWebApi\Seguridad\obj\Debug\net7.0\ref\Seguridad.dll

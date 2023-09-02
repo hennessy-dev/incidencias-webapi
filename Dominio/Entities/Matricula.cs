@@ -1,7 +1,9 @@
-namespace Dominio.Entities;
+namespace Dominio;
 public class Matricula
 {
     public int IdMatricula { get; set; }
-    public int IdPersona { get; set; }
-    public int IdSalon { get; set; }
+    public int IdPersonaFk { get; set; }
+    public Persona Përsona { get; set; }
+    public int IdSalonFk { get; set; }
+    public Salon Salon { get; set; }
 }

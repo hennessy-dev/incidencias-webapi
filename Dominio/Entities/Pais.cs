@@ -1,7 +1,8 @@
-namespace Dominio.Entities;
+namespace Dominio;
 
 public class Pais
 {
-    public int Id { get; set; }
-    public string Nombre { get; set; }
+    public int IdPais { get; set; }
+    public string NombrePais { get; set; }
+    public ICollection<Departamento> Departamentos { get; set; }
 }

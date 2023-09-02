@@ -1,6 +1,8 @@
-namespace Dominio.Entities;
-    public class TrainerSalon
-    {
-        public int IdPersona { get; set; }
-        public int IdSalon { get; set; }
-    }
+namespace Dominio;
+public class TrainerSalon
+{
+    public int IdPersonaTrainerFk { get; set; }
+    public Persona Persona { get; set; }
+    public int IdSalonFk { get; set; }
+    public Salon Salon { get; set; }
+}
